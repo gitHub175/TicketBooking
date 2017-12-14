@@ -1,0 +1,9 @@
+{
+  "name": "ToDoList2",
+  "devDependencies": {
+      "eslint": "^4.6.1"
+  },
+  "scripts": {
+      "lint": "./node_modules/.bin/eslint src/scripts/*.js"
+  }
+}
